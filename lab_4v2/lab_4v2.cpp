@@ -5,7 +5,7 @@
 #include <iomanip>
 #include <string>
 
-using namespace std;
+using namespace std;    //саня
 
 enum type_error
 {
@@ -73,7 +73,7 @@ type_error correct_element(const string filename, int **&matrix, int &row, int &
 	int m = 0, n = 0;//-- m — колонка, n — строчка 
 	int k = 0;
 
-	int index = 0;
+	int index = 0; 
 	char c = 0;
 
 	char lseek;
