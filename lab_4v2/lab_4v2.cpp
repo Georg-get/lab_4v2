@@ -70,7 +70,7 @@ type_error correct_element(const string filename, int **&matrix, int &row, int &
 	}
 
 	int a;
-	int m = 0, n = 0;//-- m — колонка, n — строчка 9999999999
+	int m = 0, n = 0;//-- m — колонка, n — строчка 
 	int k = 0;
 
 	int index = 0;
